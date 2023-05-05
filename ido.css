@@ -33,6 +33,8 @@ table
 	border:outset;
 	margin: auto;
 	border-collapse: collapse;
+	width: 80%;
+	border: 3px solid black;
 }
 
 hr
