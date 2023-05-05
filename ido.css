@@ -63,9 +63,7 @@ h1, h2{
 	color: #243f84;
 	text-transform: uppercase;
 }
-h2{
-	border-top: 1px solid black;
-}
+
 #szurke{
 	text-transform: lowercase;
 	text-align: center;
@@ -80,4 +78,8 @@ li{
 dl{
 	color: #243f84;
 	text-decoration: underline;
+}
+#fel{
+	float: right;
+	width: 5vw;
 }
