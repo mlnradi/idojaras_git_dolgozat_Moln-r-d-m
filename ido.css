@@ -1,6 +1,11 @@
 @charset "utf-8";
 /* CSS Document */
-
+*{
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	font-family:'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+	line-height: 1.5em;
+}
 body
 {
 	background-image: url(background.jpg);
